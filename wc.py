@@ -1,3 +1,5 @@
+# GENERATE A WORDCLOUD FROM biblenames dict
+
 import wordcloud
 from wordcloud import WordCloud
 import json
